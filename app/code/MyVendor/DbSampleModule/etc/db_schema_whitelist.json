@@ -1,0 +1,12 @@
+{
+    "myvendor_dbsamplemodule_declarativeschema": {
+        "column": {
+            "item_id": true,
+            "title": true,
+            "title2": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
